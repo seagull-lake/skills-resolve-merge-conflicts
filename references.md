@@ -1,1 +1,3 @@
-My best reference is Beavis.
+# References
+* Beavis
+* octocat 1 😈
